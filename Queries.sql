@@ -33,5 +33,5 @@ select * from Patients where date_of_birth = '1993-%';
 --delete from MedicalRecords
 --where record_id = 1;
 
-
-
+-- 
+select * from Appointments;
