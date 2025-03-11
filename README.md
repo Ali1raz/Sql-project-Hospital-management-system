@@ -1,8 +1,3 @@
-# Get this Project by running following command in your terminal:
-```
-git clone https://github.com/Ali1raz/Sql-project-Hospital-management-system.git HMS
-```
-
 ## 1. Introduction to SQL
 - What is SQL?
 -   SQL (Structured Query Language) is a standard language for managing and manipulating relational databases.
